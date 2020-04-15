@@ -1,0 +1,3 @@
+python blur_face.py --image examples/shuvam3.png --face face_detector
+
+
